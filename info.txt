@@ -1,0 +1,4 @@
+Christian Yair Cruz Alaniz
+03/02/2026
+El objetivo de la actividad es una practica de Github y conocer algunos de los comandos.
+Pull Request es una funcionalidad de plataformas como GitHub, Bitbucket o GitLab que permite a los desarrolladores proponer cambios en el código, facilitando su revisión, discusión y pruebas antes de fusionarlo en la rama principal o de producción.
