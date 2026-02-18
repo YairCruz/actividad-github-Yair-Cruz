@@ -1,3 +1,0 @@
-Proyecto: Git Conflicts
-Responsable: Cruz Alaniz Christian Yair 
-Version: 1.0
